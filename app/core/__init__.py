@@ -1,1 +1,1 @@
-# Fichier d'initialisation pour la configuration principale
+# Initialisation du module core
