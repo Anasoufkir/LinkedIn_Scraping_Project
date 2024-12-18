@@ -1,1 +1,1 @@
-# Fichier d'initialisation pour le module de scraping
+# Initialisation du module scraper
